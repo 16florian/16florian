@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @16florian
-- 👀 I’m interested in artificial intelligence projects.
+- 👋 Hi, I’m @florian16
+- 👀 I’m interested in artificial intelligence projects.🤖🦿🦾
 - 🌱 I’m currently learning how to make chatbots
 - 💞️ I’m looking to collaborate on artificial intelligence projects...
 - 📫 How to reach me .. floriannanias16@gmail.com
